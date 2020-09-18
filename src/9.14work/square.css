@@ -1,0 +1,27 @@
+.contents{
+    display:flex;
+    flex-flow:wrap;
+}
+.lists{
+    width:30%;
+    height:200px;
+    padding:15px;
+    border-radius:10px;
+    background:#fff;
+    margin:5px;
+}
+img{
+    width: 165px;
+    height:165px;
+}
+.sp1{
+    font-size:24px;
+    font-weight:bold;
+}
+.sp2{
+    font-size:16px;
+    margin-left:10px;
+}
+.channel{
+    text-align:center;
+}

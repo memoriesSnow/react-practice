@@ -1,0 +1,49 @@
+.page1{
+    width:620px;
+    height:300px;
+    display:flex;
+    flex-direction: column;
+    border:solid 1px;
+    background:#fff;
+}
+img{
+    width:150px;
+    height:150px;
+}
+.content1{
+    display: flex;
+}
+p{
+    font-size:14px;
+}
+.list1{
+    display:flex;
+    flex-direction: column;
+    justify-items:space-between;
+    align-items: space-between;
+    height:238px;
+    width:160px;
+    margin:3px;
+    padding:10px;
+}
+.ps{
+    text-align: center;
+    background:#FFF1E6;
+    color:red;
+    padding:10px;
+}
+.p1{
+    font-size:18px;
+    font-weight:bold;
+}
+.p2{
+    font-size:12px;
+}
+.p3{
+    width:100px;
+    color:#fff;
+    font-size:12px;
+    padding:5px;
+    background:#FF5500;
+    margin:0 auto;
+}

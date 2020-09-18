@@ -1,0 +1,43 @@
+.page{
+    width:620px;
+    height:300px;
+    display:flex;
+    flex-direction: column;
+    border:solid 1px;
+}
+.img{
+    width:160px;
+    height:194px;
+}
+.content{
+    display: flex;
+}
+p{
+    font-size:14px;
+}
+.list{
+    display:flex;
+    flex-direction: column;
+    justify-items:space-between;
+    align-items: space-between;
+    height:238px;
+    width:160px;
+    margin:3px;
+    padding:10px;
+    background:#fff;
+}
+.p0{
+    width:170px;
+    height:20px;
+}
+.np{
+    font-size:18px;
+    color:red;
+    font-weight:bold;
+    margin-right:10px;
+}
+.op{
+    font-size:12px;
+    color:#999999;
+    text-decoration:line-through;
+}
